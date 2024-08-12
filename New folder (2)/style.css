@@ -1,0 +1,30 @@
+body{
+    background-color: brown;
+}
+.container{
+    height: 650px;
+    width: 580px;
+    background-color: bisque;
+    display: grid;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    margin: 0px auto;
+    /* border-color: black ; */
+    border: 2px solid black;
+}
+
+.btn{
+    height: 30px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px auto;
+}
+
+.input{
+    width: 300px;
+    margin: 0px auto;
+}
